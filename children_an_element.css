@@ -1,0 +1,16 @@
+table{
+    /* border: 2px solid black; */
+    cursor: pointer;
+}
+table .hr{
+    border: 2px solid black;
+    width: 100%;
+    /* margin: 0; */
+}
+table tr td,
+table tr th{
+    border: 2px solid black;
+    padding: 9px;
+    margin: 0px;
+}
+ 

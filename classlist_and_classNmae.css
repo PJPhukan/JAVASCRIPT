@@ -1,0 +1,12 @@
+/* body{
+    background-color: red;
+} */
+.red{
+    background-color: aqua;
+}
+.blue{
+    background-color: yellow;
+}
+.text-dark{
+    color: rgb(76, 9, 233);
+}
